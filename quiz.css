@@ -1,0 +1,16 @@
+.answer-correct {
+    background-color: #198754 !important;
+    border-color: #198754 !important;
+    color: #fff !important;
+    box-shadow: 0 0 12px 4px rgba(25, 135, 84, 0.65);
+}
+
+.answer-incorrect {
+    background-color: #dc3545 !important;
+    border-color: #dc3545 !important;
+    color: #fff !important;
+}
+
+#result-box {
+    text-align: center;
+}
